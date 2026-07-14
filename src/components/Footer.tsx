@@ -15,7 +15,7 @@ export default function Footer() {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            <h2 className="text-4xl md:text-5xl font-serif mb-6">Let's <span className="text-primary italic">Connect.</span></h2>
+            <h2 className="text-4xl md:text-5xl font-serif mb-6">Let&apos;s <span className="text-primary italic">Connect.</span></h2>
             <p className="text-muted max-w-md leading-relaxed mb-10">
               To work in an environment which encourages me to succeed and grow professionally where I can utilize my skills and knowledge appropriately.
             </p>
