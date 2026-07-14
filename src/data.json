@@ -1,0 +1,225 @@
+{
+  "personal": {
+    "name": "Durreshahwar Khan",
+    "email": "khandurreshahwar8@gmail.com",
+    "phone": ["03423930992", "03191595102"],
+    "address": "House no 89, B, Marghazar Officers Colony Multan Road, Lahore, Pakistan",
+    "dob": "1982-02-12",
+    "nationality": "Pakistani",
+    "objective": "To work in an environment which encourages me to succeed and grow professionally where I can utilize my skills and knowledge appropriately.",
+    "professionalSummary": "Highly qualified and dedicated Professional Educator with over 5 years of teaching experience across international and national educational institutes. Demonstrated expertise as a Primary School Teacher, Montessori Teacher, and Early Childhood Educator. Adept at curriculum planning, fostering child development, and creating engaging, supportive learning environments. Holds a Master of Education (M.A Teacher Education) and a Bachelor of Education, along with specialized diplomas in Early Childhood Education. Recognized for polite and humble nature, winning acclaim among students and peers. Proven track record of carrying out duties with full zeal, resulting in a Teacher Appreciation Award from Al Dhiya International School (Oman)."
+  },
+  "titles": [
+    "Professional Educator",
+    "Primary School Teacher",
+    "Montessori Teacher",
+    "Early Childhood Educator",
+    "Curriculum Planner",
+    "Child Development Specialist"
+  ],
+  "experience": [
+    {
+      "title": "Primary Teacher",
+      "company": "Al Dhiya International School",
+      "location": "Oman",
+      "startDate": "2019",
+      "endDate": "2020",
+      "description": "Worked as a Montessori Class teacher for KG 2. Class teacher for grade 3. Subject teacher for grades 4 and 5."
+    },
+    {
+      "title": "Primary Teacher",
+      "company": "The Educators School System (Sabzazar Campus)",
+      "location": "Lahore, Pakistan",
+      "startDate": "2010-03",
+      "endDate": "2013-02",
+      "description": "Served as a Teacher. Recognized for taking keen interest in assigned tasks and carrying out duties with full zeal and zest. Praised for polite and humble nature."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Education (M.A Teacher Education)",
+      "institution": "Allama Iqbal Open University",
+      "location": "Islamabad",
+      "startDate": "2019",
+      "endDate": "2022",
+      "details": "Completed prescribed requirements. Grade A."
+    },
+    {
+      "degree": "Bachelor of Education (B.Ed)",
+      "institution": "Allama Iqbal Open University",
+      "location": "Islamabad",
+      "startDate": "2011",
+      "endDate": "2013",
+      "details": "Secured 68% marks. Grade B."
+    },
+    {
+      "degree": "Diploma of Early Childhood Educator",
+      "institution": "Oxford Institute Of Technical Training Centre RWP",
+      "startDate": "2009",
+      "endDate": "2011"
+    },
+    {
+      "degree": "B.A (Bachelor Of Education)",
+      "institution": "University of Punjab",
+      "startDate": "2002",
+      "endDate": "2004"
+    },
+    {
+      "degree": "Intermediate",
+      "institution": "Board Of Intermediate and Secondary Education",
+      "startDate": "2000",
+      "endDate": "2002"
+    },
+    {
+      "degree": "Matriculation (Secondary School Examination)",
+      "institution": "Board Of Intermediate and Secondary Education, Lahore",
+      "school": "Govt. Girls High School, Chauburji Gardens, Lahore",
+      "startDate": "1997",
+      "endDate": "1997",
+      "details": "Science Group. 484/850 Marks."
+    }
+  ],
+  "awards_and_certificates": [
+    "Certificate in Teacher training (Punjab Group of college)",
+    "Certificate in Fluent English Preparatory Course (Kippling language centre)",
+    "Teacher appreciation award from Al Dhiya international school (Oman)"
+  ],
+  "skills": [
+    "MS Office (Word, Excel, Publisher)",
+    "Type Writing",
+    "Proficient in Urdu & English",
+    "Basic Internet Knowledge",
+    "Curriculum Planning",
+    "Child Development"
+  ],
+  "creativeSkills": [
+    "Creative Board Decoration",
+    "Bulletin Board Design",
+    "Classroom Decoration",
+    "Art & Craft",
+    "Event Decoration",
+    "Educational Display Making",
+    "Visual Learning Materials",
+    "Creative Teaching Aids",
+    "Classroom Beautification",
+    "Theme-Based Decorations",
+    "Time Management",
+    "Creativity & Innovation",
+    "Organization Skills",
+    "Attention to Detail"
+  ],
+  "galleryItems": [
+    {
+      "id": "item-1",
+      "title": "First Aid Awareness Board",
+      "category": "Awareness Campaigns",
+      "description": "Educational display emphasizing first aid basics.",
+      "image": "/gallery/gallery-1.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-2",
+      "title": "Water Cycle Educational Display",
+      "category": "Educational Displays",
+      "description": "Visual learning material for science concepts.",
+      "image": "/gallery/gallery-2.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-3",
+      "title": "Art & Craft Day Theme Board",
+      "category": "Art & Craft Projects",
+      "description": "Showcasing student creativity and theme design.",
+      "image": "/gallery/gallery-3.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-4",
+      "title": "Kashmir Solidarity Day Display",
+      "category": "Event Decorations",
+      "description": "Thematic decoration for a national observance.",
+      "image": "/gallery/gallery-4.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-5",
+      "title": "School Entrance Decoration",
+      "category": "School Activities",
+      "description": "Welcoming entrance design for school events.",
+      "image": "/gallery/gallery-5.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-6",
+      "title": "Interactive Classroom Bulletin Boards",
+      "category": "Bulletin Boards",
+      "description": "Engaging bulletin board promoting student interaction.",
+      "image": "/gallery/gallery-6.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-7",
+      "title": "Educational Event Decorations",
+      "category": "Event Decorations",
+      "description": "Comprehensive decoration setup for a school program.",
+      "image": "/gallery/gallery-7.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-8",
+      "title": "Classroom Theme Decorations",
+      "category": "Classroom Decorations",
+      "description": "Thematic classroom beautification project.",
+      "image": "/gallery/gallery-8.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-9",
+      "title": "Creative Teaching Aids",
+      "category": "Learning Materials",
+      "description": "Handcrafted aids to simplify complex concepts.",
+      "image": "/gallery/gallery-9.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-10",
+      "title": "Student Activity Showcase",
+      "category": "School Activities",
+      "description": "Display highlighting student participation.",
+      "image": "/gallery/gallery-10.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-11",
+      "title": "Classroom Visuals",
+      "category": "Classroom Decorations",
+      "description": "Vibrant visual learning environment setup.",
+      "image": "/gallery/gallery-11.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-12",
+      "title": "Thematic Display Board",
+      "category": "Bulletin Boards",
+      "description": "Custom designed board for term themes.",
+      "image": "/gallery/gallery-12.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-13",
+      "title": "Event Awareness Display",
+      "category": "Awareness Campaigns",
+      "description": "Campaign material for school awareness programs.",
+      "image": "/gallery/gallery-13.jpeg",
+      "type": "image"
+    },
+    {
+      "id": "item-14",
+      "title": "Creative Process Showcase",
+      "category": "School Activities",
+      "description": "Video documentation of the decoration and setup process.",
+      "image": "/gallery/video.mp4",
+      "type": "video"
+    }
+  ]
+}

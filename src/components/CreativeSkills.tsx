@@ -2,7 +2,7 @@
 
 import { motion, Variants } from "framer-motion";
 import { Palette } from "lucide-react";
-import data from "../../../data.json";
+import data from "../data.json";
 
 export default function CreativeSkills() {
   const { creativeSkills } = data;

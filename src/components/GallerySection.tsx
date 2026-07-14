@@ -4,7 +4,7 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { X, ZoomIn, PlayCircle } from "lucide-react";
-import data from "../../../data.json";
+import data from "../data.json";
 
 export default function GallerySection() {
   const { galleryItems } = data;
