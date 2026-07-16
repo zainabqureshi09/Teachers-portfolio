@@ -21,18 +21,18 @@ export default function Footer() {
             </p>
             
             <div className="flex flex-col gap-6">
-              <a href="mailto:khandurreshahwar8@gmail.com" className="flex items-center gap-4 text-muted hover:text-primary transition-colors group">
+              <a href="mailto:durreshahwarkhan0@gmail.com" className="flex items-center gap-4 text-muted hover:text-primary transition-colors group">
                 <div className="p-3 bg-secondary/10 rounded-full group-hover:bg-primary/20 transition-colors">
                   <Mail size={20} />
                 </div>
-                <span className="font-medium tracking-wide">khandurreshahwar8@gmail.com</span>
+                <span className="font-medium tracking-wide">durreshahwarkhan0@gmail.com</span>
               </a>
               
-              <a href="tel:03423930992" className="flex items-center gap-4 text-muted hover:text-primary transition-colors group">
+              <a href="tel:+923270213464" className="flex items-center gap-4 text-muted hover:text-primary transition-colors group">
                 <div className="p-3 bg-secondary/10 rounded-full group-hover:bg-primary/20 transition-colors">
                   <Phone size={20} />
                 </div>
-                <span className="font-medium tracking-wide">0342-3930992 / 0319-1595102</span>
+                <span className="font-medium tracking-wide">+92 327 0213464 / +92 317 3955422</span>
               </a>
               
               <div className="flex items-center gap-4 text-muted">
